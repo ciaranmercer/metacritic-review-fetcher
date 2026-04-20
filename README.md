@@ -39,3 +39,7 @@ python metacritic_scraper.py <file_name> <sheet_number>
 - Sheet number is indexed starting at 0
 - Entires that could not be retrieved are assigned a value of -1
 - Output filename is `output.xlsx`
+
+### Disclaimer
+
+This project has been created for educational and learning purposes. It is not designed to be ran at scale. Always respect rate limits.
